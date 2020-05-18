@@ -195,6 +195,7 @@ dependencies {
     implementation "com.facebook.react:react-native:+"  // From node_modules
 
     compile project(":react-native-shared-preferences")
+    compile project(':react-native-background-job')
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
 
