@@ -22,5 +22,5 @@ To Run on device use
          
 #### ScreenShots - Native App
 
-<img src="screenshots/camera.jpg" data-canonical-src="screenshots/1.png" width="250" />
-<img src="screenshots/gallery.jpg" data-canonical-src="screenshots/2.png" width="250" />
+<img src="screenshots/camera.jpeg" data-canonical-src="screenshots/1.png" width="250" />
+<img src="screenshots/gallery.jpeg" data-canonical-src="screenshots/2.png" width="250" />
